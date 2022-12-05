@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerRestChat", "ServerRestChat\ServerRestChat.csproj", "{AEEDCAE7-C75D-4C3E-8637-CFAF629DD297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEEDCAE7-C75D-4C3E-8637-CFAF629DD297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEDCAE7-C75D-4C3E-8637-CFAF629DD297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEDCAE7-C75D-4C3E-8637-CFAF629DD297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEDCAE7-C75D-4C3E-8637-CFAF629DD297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {391BDD69-DCF4-48B4-A199-F0C399AB21B3}
+	EndGlobalSection
+EndGlobal
